@@ -1,0 +1,24 @@
+{
+  "name":  "estai/yii2-ui-tinytbl-scroller",
+  "version": "1.0.0",
+  "description": "",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extension", "ui-tinytbl", "widget", "jquery", "fixed-column"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Estai",
+      "email": "estai_05_93@mail.ru"
+    }
+  ],
+  "require": {
+
+   "bower-asset/ui-tinytbl-scroller": "1.0.0"
+
+  },
+  "autoload": {
+    "psr-4": {
+      "estai\\uitinytbl\\": ""
+    }
+  }
+}
